@@ -18,12 +18,9 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="primary">#9C27B0</color>
-    <color name="primary_dark">#7B1FA2</color>
-    <color name="accent">#90DC39</color>
+    <color name="primary">#f35320</color>
+    <color name="primary_dark">#BF360C</color>
+    <color name="accent">#00B286</color>
 
-    <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#04561A</color>
-    <color name="theme_accent">#04561A</color>
-    <color name="ltgray">#ffe0e0e0</color>
+    <color name="ltgray">#414141</color>
 </resources>

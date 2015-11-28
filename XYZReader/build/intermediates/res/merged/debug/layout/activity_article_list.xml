@@ -7,6 +7,7 @@
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
         android:layout_height="168dp"
+        android:elevation="4dp"
         android:background="?colorPrimary">
 
         <android.support.design.widget.CollapsingToolbarLayout
@@ -52,4 +53,4 @@
     </android.support.v4.widget.SwipeRefreshLayout>
 
 
-</android.support.design.widget.CoordinatorLayout><!-- From: file:/C:/nanodegree/xyzreader/XYZReader/src/main/res/layout/activity_article_list.xml -->
+</android.support.design.widget.CoordinatorLayout><!-- From: file:/E:/android-nanodegree/xyzreader/XYZReader/src/main/res/layout/activity_article_list.xml -->
