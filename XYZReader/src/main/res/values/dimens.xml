@@ -8,4 +8,11 @@
     <dimen name="fab_press_translation_z">12dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
+    <dimen name="minimal_margin">4dp</dimen>
+    <dimen name="text_padding">24dp</dimen>
+
+    <dimen name="appbar_height">112dp</dimen>
+    <dimen name="actionbar_width">56dp</dimen>
+
+    <dimen name="base_elevation">2dp</dimen>
 </resources>

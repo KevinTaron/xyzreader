@@ -22,5 +22,11 @@
     <color name="primary_dark">#BF360C</color>
     <color name="accent">#00B286</color>
 
+    <color name="light_color">#fff</color>
+    <color name="light_gray">#8fff</color>
+    <color name="dark_color">#6000</color>
+
+    <color name="dark_gray">#333</color>
+
     <color name="ltgray">#414141</color>
 </resources>
