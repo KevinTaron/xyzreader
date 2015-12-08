@@ -276,9 +276,9 @@
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
     <!-- From: file:/E:/android-nanodegree/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
     <eat-comment/>
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
-    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
     <!-- From: file:/E:/android-nanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
@@ -330,7 +330,7 @@
     <integer name="design_snackbar_text_max_lines">2</integer>
     <!-- From: file:/E:/android-nanodegree/xyzreader/XYZReader/src/main/res/values/macro_layout.xml -->
     <eat-comment/>
-    <integer name="list_column_count">2</integer>
+    <integer name="list_column_count">1</integer>
     <!-- From: file:/E:/android-nanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
@@ -1577,9 +1577,13 @@
         <item name="colorPrimaryDark">@color/primary_dark</item>
         <!--   theme UI controls like checkboxes and text fields -->
         <item name="colorAccent">@color/accent</item>
+
     </style>
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
+        <!--<item name="android:background">@color/primary</item>-->
+        <!--<item name="android:height">?android:attr/actionBarSize</item>-->
+        <!--<item name="android:minHeight">?android:attr/actionBarSize</item>-->
     </style>
     <!-- From: file:/E:/android-nanodegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
